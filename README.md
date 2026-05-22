@@ -1,4 +1,3 @@
-Here’s a professional `README.md` for your Library Management System, ready for GitHub.
 # 📚 Library Management System
 
 A console‑based Library Management System written in Python.  
@@ -22,14 +21,20 @@ The project was developed as a university assignment and demonstrates object‑o
 - No external dependencies (uses only the standard library).  
 
 ## 📁 Project Structure
-
 LibraryManagement/
+
 ├── book.py              # Book class
+
 ├── member.py            # Member class
+
 ├── loan.py              # Loan class (tracks borrow/return dates)
+
 ├── exceptions.py        # Custom exception classes
+
 ├── library_service.py   # Core business logic (borrow, return, search)
+
 ├── main.py              # Interactive menu and application entry point
+
 └── README.md            # This file
 
 ## 🚀 Getting Started
@@ -42,7 +47,7 @@ LibraryManagement/
 
 1. **Clone the repository**
    bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone [https://github.com/doroleatjanelle-eng/Library-Management-Mini-Project.git]
    cd library-management-system
    
 
@@ -58,6 +63,7 @@ No additional installation is required – all modules use the Python standard l
 When you start the program, you’ll see the main menu:
 
 ==== Library Management System ====
+
 1. Add Book
 2. Register Member
 3. Borrow Book
@@ -66,8 +72,10 @@ When you start the program, you’ll see the main menu:
 6. View Members
 7. View Loans
 8. Exit
+
 ===================================
-Choose an option:
+
+   Choose an option:
 
 Simply enter the corresponding number and follow the prompts.
 
